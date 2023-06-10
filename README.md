@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### Live project Link✨
+Open [https://redux-cart-kappa.vercel.app/] to view it in your browser
+
 ### `npm start`
 
 Runs the app in the development mode.\
